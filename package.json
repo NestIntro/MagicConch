@@ -1,0 +1,29 @@
+{
+  "name": "magic-conch",
+  "version": "1.0.0",
+  "description": "풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NestIntro/MagicConch.git"
+  },
+  "keywords": [
+    "node",
+    "magicconch",
+    "magic-conch",
+    "magic_conch",
+    "spongebob",
+    "spongebob-squarepants",
+    "spongebob-squarePants",
+    "spongebob_squarepants"
+  ],
+  "author": "happygimy97@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NestIntro/MagicConch/issues"
+  },
+  "homepage": "https://github.com/NestIntro/MagicConch#readme"
+}
