@@ -1,10 +1,13 @@
 # MagicConch
+
 풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
 
 <br/>
 
 ## 🧙 Team
-### GP(Good People) - TDD를 기반으로 Nest.js 서버 구축
+
+### GP(Good People) - Asking to Magic Conch
+
 <br/>
 <table>
   <tbody>
@@ -19,6 +22,7 @@
 <br/>
 
 ## 💻 Stack
+
 <div>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/NEST.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
