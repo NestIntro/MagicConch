@@ -7,33 +7,13 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-function showHelp() {
-  console.log(`
-  Usage: [library-name] [options]
-  
-  Options:
-    --help      Show help (this message)
-    quit        Quit the program
-    `);
-}
-
-export function give_me_answer() {
-  if (process.argv.includes("--help")) {
-    showHelp();
-    process.exit();
-  }
-
+export default function give_me_answer() {
   rl.setPrompt("> ");
   rl.prompt();
   rl.on("line", function (line) {
     switch (line) {
       case "quit":
         rl.close();
-
-      case "help":
-        showHelp();
-        // rl.close();
-        break;
 
       default:
         console.log(
@@ -48,4 +28,4 @@ export function give_me_answer() {
   });
 }
 
-give_me_answer();
+// give_me_answer();
