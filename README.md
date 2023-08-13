@@ -1,4 +1,6 @@
-# 🐚 MagicConch
+# MagicConch
+
+## 🐚 What is MagicConch?
 풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
 
 <br/>
@@ -25,18 +27,26 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
+## Demo
 
-### **What is MagicConch?**
 
-### Main Feature
+## Getting Started
+```
+git clone https://github.com/NestIntro/MagicConch.git
+npm install package.json
+```
 
-### Example
+## Examples
+```
+node index.js
+```
 
-### **Usage or Getting Started**
+## 🧐 Contributing
+[Code of Conduct](https://www.contributor-covenant.org/)
 
-### **Contributing**
+## 📜 License
+This software is provided under [MIT License](https://github.com/nhn/toast-ui.doc/blob/master/LICENSE).
 
-### **License**
 
 
 
