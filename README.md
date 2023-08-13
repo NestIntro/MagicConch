@@ -1,4 +1,4 @@
-# MagicConch
+# 🐚 MagicConch
 풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
 
 <br/>
@@ -24,3 +24,19 @@
   <img src="https://img.shields.io/badge/NEST.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div>
+
+
+### **What is MagicConch?**
+
+### Main Feature
+
+### Example
+
+### **Usage or Getting Started**
+
+### **Contributing**
+
+### **License**
+
+
+
