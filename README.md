@@ -59,7 +59,7 @@ body
 
 footer
 
-<img src="https://github.com/NestIntro/MagicConch/assets/91196025/9c92f752-b0ea-4616-9115-c115dee70048" width="400px" height="700px"/>
+<img src="https://github.com/NestIntro/MagicConch/assets/91196025/9c92f752-b0ea-4616-9115-c115dee70048" width="700px" height="700px"/>
 
 Subject Rule
 
@@ -93,7 +93,7 @@ ex-2). Fixes: #17 Related to: #12, #16 -> 17번 이슈에 대한 것을 수정�
 여러 개의 이슈 번호를 적을 때는 쉼표(,)로 구분한다.
 아래는 이슈 트래커의 type이다.
 
-<img src="https://github.com/NestIntro/MagicConch/assets/91196025/f7b8962f-2541-4b55-a06c-9604bbb2e653" width="400px" height="600px"/>
+<img src="https://github.com/NestIntro/MagicConch/assets/91196025/f7b8962f-2541-4b55-a06c-9604bbb2e653" width="600px" height="600px"/>
 
 
 ## 📜 License
