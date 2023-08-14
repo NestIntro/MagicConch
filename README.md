@@ -1,5 +1,7 @@
 # MagicConch
-<img src="https://files.slack.com/files-pri/T01L2TNGW3T-F05MRRC85V2/conch-shell.png" width="150px" height="100px"/>
+<img src="https://github.com/NestIntro/MagicConch/assets/91196025/316b32b3-de60-4003-8d76-c316cd711f69" width="150px" height="100px"/>
+
+<br/>
 
 ## 🐚 What is MagicConch?
 풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
