@@ -1,5 +1,5 @@
 # MagicConch
-<p align="center"><img src="https://github.com/NestIntro/MagicConch/assets/91196025/316b32b3-de60-4003-8d76-c316cd711f69" width="170px" height="170px"/></p>
+<img src="https://github.com/NestIntro/MagicConch/assets/91196025/316b32b3-de60-4003-8d76-c316cd711f69" width="170px" height="170px" align="center"/>
 
 <br/>
 
