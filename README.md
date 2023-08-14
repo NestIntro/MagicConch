@@ -1,5 +1,6 @@
 # MagicConch
-
+https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.pinimg.com%2F736x%2F5d%2F4b%2F5c%2F5d4b5cc3bce4b920b6c878e376e05a97.jpg
+<img src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.pinimg.com%2F736x%2F5d%2F4b%2F5c%2F5d4b5cc3bce4b920b6c878e376e05a97.jpg"/>
 ## 🐚 What is MagicConch?
 풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
 
