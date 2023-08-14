@@ -4,12 +4,12 @@
 <br/>
 
 ## 🐚 What is MagicConch?
-풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
+If you have an unsolvable problem, ask the magic conch
 
 <br/>
 
 ## 🧙 Team
-### GP(Good People) - TDD를 기반으로 Nest.js 서버 구축
+### GP(Good People) & GP(Good Project)
 <br/>
 <table>
   <tbody>
@@ -25,9 +25,12 @@
 
 ## 💻 Stack
 <div>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/NEST.JS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
+  <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=white">
 </div>
 
 ## Demo
