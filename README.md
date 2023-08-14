@@ -1,15 +1,21 @@
 # MagicConch
+
+풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요
+
 <img src="https://github.com/NestIntro/MagicConch/assets/91196025/316b32b3-de60-4003-8d76-c316cd711f69" width="170px" height="170px" align="center"/>
 
 <br/>
 
 ## 🐚 What is MagicConch?
+
 If you have an unsolvable problem, ask the magic conch
 
 <br/>
 
 ## 🧙 Team
+
 ### GP(Good People) & GP(Good Project)
+
 <br/>
 <table>
   <tbody>
@@ -24,6 +30,7 @@ If you have an unsolvable problem, ask the magic conch
 <br/>
 
 ## 💻 Stack
+
 <div>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -35,22 +42,25 @@ If you have an unsolvable problem, ask the magic conch
 
 ## Demo
 
-
 ## Getting Started
+
 ```
 git clone https://github.com/NestIntro/MagicConch.git
 npm install package.json
 ```
 
 ## Examples
+
 ```
 node index.js
 ```
 
 ## 🧐 Contributing
+
 [Code of Conduct](https://www.contributor-covenant.org/)
 
 ## :loudspeaker: Commit Message Conventions
+
 기본적인 커밋 메시지 구조는 제목(subject), 본문(body), 꼬리말(footer) 3가지 파트로 나뉘며, 각 파트 사이에는 하나의 빈 줄을 두어 구분한다.
 
 (commit)type : subject(커밋내용 요약)
@@ -67,9 +77,6 @@ Subject Rule
 영문사용 시, 동사원형을 사용하고, 첫 글자는 대문자로 표기한다.(동사는 현재형으로만 작성)
 키워드 위주의 서술로 제목을 작성한다.
 
-
-
-
 Body Rule
 
 기본적으로 body 구문은 선택적으로 작성하면 된다.(optional)
@@ -77,9 +84,6 @@ Body Rule
 
 본문 내용은 양에 구애받지 않고 최대한 상세히 작성하는 것을 원칙으로 하나 80글자가 넘지 않도록 한다.
 본문 내용에는 '무엇을', '왜' 변경했는지에 대한 설명을 필히 포함한다.
-
-
-
 
 Footer Rule
 
@@ -95,10 +99,6 @@ ex-2). Fixes: #17 Related to: #12, #16 -> 17번 이슈에 대한 것을 수정�
 
 <img src="https://github.com/NestIntro/MagicConch/assets/91196025/f7b8962f-2541-4b55-a06c-9604bbb2e653" width="600px" height="600px"/>
 
-
 ## 📜 License
+
 This software is provided under [MIT License](https://github.com/nhn/toast-ui.doc/blob/master/LICENSE).
-
-
-
-
