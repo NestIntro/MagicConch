@@ -1,6 +1,6 @@
 "use strict";
 import { program } from "commander";
-import give_me_answer from "./index.js";
+import give_me_answer from "./magic.js";
 
 program
   .version("1.0.0")

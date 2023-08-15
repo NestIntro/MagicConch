@@ -1,4 +1,4 @@
-import answerlist from "./answer.json" assert { type: "json" };
+import answerlist from "../answer.json" assert { type: "json" };
 import * as readline from "readline";
 import chalkRainbow from "chalk-rainbow";
 
