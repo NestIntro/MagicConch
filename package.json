@@ -1,6 +1,6 @@
 {
   "name": "magic-conch-soragodong",
-  "version": "1.0.2-beta",
+  "version": "1.0.3-beta",
   "description": "풀리지 않는 문제가 있다면 마법의 소라고동에게 물어보세요",
   "type": "module",
   "main": "index.js",
