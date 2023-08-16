@@ -1,3 +1,7 @@
+## [1.0.5](https://github.com/NestIntro/MagicConch/compare/v1.0.4-beta...v1.0.5) (2023-08-16)
+
+
+
 ## [1.0.4](https://github.com/NestIntro/MagicConch/compare/v1.0.4-beta...v1.0.4) (2023-08-16)
 
 
