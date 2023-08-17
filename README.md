@@ -55,9 +55,9 @@ node index.js
 
 ## 🧐 Contributing
 
-[Code of Conduct](https://www.contributor-covenant.org/)
+- [Code of Conduct](https://www.contributor-covenant.org/)
 <br/>
-[Issue guideline](https://github.com/NestIntro/MagicConch/tree/main/.github/ISSUE_TEMPLATE)
+- [Issue guideline](https://github.com/NestIntro/MagicConch/tree/main/.github/ISSUE_TEMPLATE)
 
 <br/>
 
