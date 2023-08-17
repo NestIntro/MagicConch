@@ -120,11 +120,11 @@ Must be one of the following:
 - 🤔 If it is not a commit linked to the issue, you can selectively write it.
 - Specify the type of issue.
 - 
-'''
+```
 [Issue tracker type]:#[Issue number]
 ex-1). Resolves:#17
 ex-2). Fixes: #17 Related to: #12, #16
-'''
+```
 - When writing down multiple issue numbers, separate them with commas ().
 
 <br/>
