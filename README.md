@@ -85,7 +85,7 @@ footer // 📝 this part exists for tracking issue.
 
 User authentication was implemented using the Jwt token method // body part
 
-Resolves: #18
+Resolves: #18   // footer part
 ```
 
 <br/>
