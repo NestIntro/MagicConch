@@ -65,7 +65,7 @@ node index.js
 
 ## Commit Message Format
 
-it is consist of subject, body, and footer. 
+It is consist of subject, body, and footer. 
 
 Each part is separated by a single line.
 
@@ -78,7 +78,7 @@ body // 📝 if you have to describe more detaily what you did, you can write do
 footer // 📝 this part exists for tracking issue.
 ```
 
-here is an example
+📝 Here is an example
 
 ```markdown
 [Feat]: Add an authentication function   // subject part
