@@ -59,7 +59,8 @@ node node_modules/magic-conch-soragodong/cli.js
 ```
 
 <br/>
-## 🧐 Contributing
+
+## Contributing
 
 - [Code of Conduct](https://www.contributor-covenant.org/)
 <br/>
