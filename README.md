@@ -56,7 +56,10 @@ node index.js
 ## 🧐 Contributing
 
 [Code of Conduct](https://www.contributor-covenant.org/)
+<br/>
 [Issue guideline](https://github.com/NestIntro/MagicConch/tree/main/.github/ISSUE_TEMPLATE)
+
+<br/>
 
 ## :loudspeaker: Commit Message Conventions
 
@@ -71,6 +74,8 @@ Footer
 ```
 - The basic commit message structure is divided into three parts: subject, body, and footer.
 - Separate each part with an empty line
+
+<br/>
 
 ## Type
 
@@ -89,6 +94,7 @@ Must be one of the following:
 - **Rename**: Changes file/folder name or the path
 - **Remove**: Files only remove
 
+<br/>
 
 ## Subject Rule
 
@@ -97,12 +103,16 @@ Must be one of the following:
 - use the imperative, **present** tense: "change" not "changed" nor "changes"
 - capitalize the first letter
 
+<br/>
+
 ## Body Rule
 
 - Basically, body can be written selectively.
 - 🤔 However, if it is not possible to explain simply with a subject, it is better to write it.
 - In principle, the content of the text should be written in as much detail as possible regardless of the amount, but it should not exceed 80 characters.
 - The content of the text must include an explanation of what was changed and why.
+
+<br/>
 
 ## Footer Rule
 
@@ -117,8 +127,9 @@ ex-2). Fixes: #17 Related to: #12, #16
 '''
 - When writing down multiple issue numbers, separate them with commas ().
 
+<br/>
 
-# Issue tracker type
+## Issue tracker type
 
 Must be one of the following:
 
