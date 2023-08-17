@@ -65,19 +65,32 @@ node index.js
 
 ## Commit Message Format
 
-```
-(Commit)Type : Subject(Summary Commit message)
+it is consist of subject, body, and footer. 
 
-Body
+Each part is separated by a single line.
 
-Footer
+
+```markdown
+<Commit Type>: subject // 📝 you can describe shortly about your commit
+
+body // 📝 if you have to describe more detaily what you did, you can write down on this part. It is optional
+
+footer // 📝 this part exists for tracking issue.
 ```
-- The basic commit message structure is divided into three parts: subject, body, and footer.
-- Separate each part with an empty line
+
+here is an example
+
+```markdown
+[Feat]: Add an authentication function   // subject part
+
+User authentication was implemented using the Jwt token method // body part
+
+Resolves: #18
+```
 
 <br/>
 
-## Type
+## Commit Type
 
 Must be one of the following:
 
@@ -108,8 +121,8 @@ Must be one of the following:
 ## Body Rule
 
 - Basically, body can be written selectively.
-- 🤔 However, if it is not possible to explain simply with a subject, it is better to write it.
-- In principle, the content of the text should be written in as much detail as possible regardless of the amount, but it should not exceed 80 characters.
+  - 🤔 However, if it is not possible to explain simply with a subject, it is better to write it.
+- The content of the text should be written in as much detail as possible regardless of the amount, but it should not exceed 80 characters.
 - The content of the text must include an explanation of what was changed and why.
 
 <br/>
@@ -123,7 +136,7 @@ ex-2). Fixes: #17 Related to: #12, #16
 ```
 
 - Footer is phrases for issue tracking.
-- 🤔 If it is not a commit linked to the issue, you can selectively write it.
+  - 🤔 If it is not a commit linked to the issue, you can selectively write it.
 - Specify the type of issue.
 - When writing down multiple issue numbers, separate them with commas ().
 
