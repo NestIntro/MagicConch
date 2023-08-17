@@ -43,15 +43,15 @@ If you have an unsolvable problem, ask the magic conch
 ## Getting Started
 
 ```
-git clone https://github.com/NestIntro/MagicConch.git
-npm install package.json
+npm i magic-conch-soragodong
 ```
 
-## Examples
+## Usage
 
 ```
-node index.js
+node node_modules/magic-conch-soragodong/cli.js
 ```
+
 
 ## 🧐 Contributing
 
