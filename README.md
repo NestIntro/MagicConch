@@ -41,7 +41,7 @@ If you have an unsolvable problem, ask the magic conch
 <br/>
 
 ## Demo
-<img src="https://github.com/NestIntro/MagicConch/assets/91196025/feef9ee2-6b21-40ab-8441-0a4f5f34a7c5" width="600px" height="250px"/>
+<img src="https://github.com/NestIntro/MagicConch/assets/91196025/3a5828d2-3aef-4ea1-bca8-e1d9a65c17f1" width="600px" height="250px"/>
 
 <br/>
 
