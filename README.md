@@ -39,6 +39,8 @@ If you have an unsolvable problem, ask the magic conch
 </div>
 
 ## Demo
+![화면 기록 2023-08-17 오후 4 08 35](https://github.com/NestIntro/MagicConch/assets/91196025/feef9ee2-6b21-40ab-8441-0a4f5f34a7c5)
+
 
 ## Getting Started
 
