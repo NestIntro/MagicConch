@@ -38,15 +38,19 @@ If you have an unsolvable problem, ask the magic conch
   <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=white">
 </div>
 
-## Demo
-![화면 기록 2023-08-17 오후 4 08 35](https://github.com/NestIntro/MagicConch/assets/91196025/feef9ee2-6b21-40ab-8441-0a4f5f34a7c5)
+<br/>
 
+## Demo
+<img src="https://github.com/NestIntro/MagicConch/assets/91196025/feef9ee2-6b21-40ab-8441-0a4f5f34a7c5" width="400px" height="250px"/>
+
+<br/>
 
 ## Getting Started
 
 ```
 npm i magic-conch-soragodong
 ```
+<br/>
 
 ## Usage
 
@@ -54,7 +58,7 @@ npm i magic-conch-soragodong
 node node_modules/magic-conch-soragodong/cli.js
 ```
 
-
+<br/>
 ## 🧐 Contributing
 
 - [Code of Conduct](https://www.contributor-covenant.org/)
@@ -79,7 +83,7 @@ body // 📝 if you have to describe more detaily what you did, you can write do
 
 footer // 📝 this part exists for tracking issue.
 ```
-
+<br/>
 📝 Here is an example
 
 ```markdown
@@ -153,7 +157,7 @@ Must be one of the following:
 - **Ref**: Issue exists for reference
 - **Related to**: Unresolved issues associated with this commit
 
-
+<br/>
 ## 📜 License
 
 This software is provided under [MIT License](https://github.com/nhn/toast-ui.doc/blob/master/LICENSE).
